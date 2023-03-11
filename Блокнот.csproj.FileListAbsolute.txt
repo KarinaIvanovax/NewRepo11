@@ -1,0 +1,10 @@
+C:\Users\Пользователь\Documents\FirstCommit\FirstCommit\Блокнот\Блокнот\bin\Debug\Блокнот.exe.config
+C:\Users\Пользователь\Documents\FirstCommit\FirstCommit\Блокнот\Блокнот\bin\Debug\Блокнот.exe
+C:\Users\Пользователь\Documents\FirstCommit\FirstCommit\Блокнот\Блокнот\bin\Debug\Блокнот.pdb
+C:\Users\Пользователь\Documents\FirstCommit\FirstCommit\Блокнот\Блокнот\obj\Debug\Блокнот.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\FirstCommit\FirstCommit\Блокнот\Блокнот\obj\Debug\Блокнот.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Documents\FirstCommit\FirstCommit\Блокнот\Блокнот\obj\Debug\Блокнот.Notes.resources
+C:\Users\Пользователь\Documents\FirstCommit\FirstCommit\Блокнот\Блокнот\obj\Debug\Блокнот.csproj.GenerateResource.cache
+C:\Users\Пользователь\Documents\FirstCommit\FirstCommit\Блокнот\Блокнот\obj\Debug\Блокнот.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\FirstCommit\FirstCommit\Блокнот\Блокнот\obj\Debug\Блокнот.exe
+C:\Users\Пользователь\Documents\FirstCommit\FirstCommit\Блокнот\Блокнот\obj\Debug\Блокнот.pdb
